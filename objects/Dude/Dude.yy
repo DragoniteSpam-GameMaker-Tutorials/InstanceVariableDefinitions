@@ -32,7 +32,22 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": [
-        
+        {
+            "id": "cfd04edb-f9d2-439b-a618-8b2c69eb323b",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": [
+                
+            ],
+            "multiselect": false,
+            "rangeEnabled": true,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "Dude",
+            "varName": "my_name",
+            "varType": 2
+        }
     ],
     "solid": false,
     "spriteId": "f79e1979-3115-4594-831d-c5f6996ecfc2",
